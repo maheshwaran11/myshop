@@ -1,0 +1,37 @@
+header {
+    background: #4948FD;
+    color: #fff;
+}
+.logo h2 {
+    margin: 0;
+    font-size: 24px;
+}
+.search-container > div {
+    position: relative;
+}
+
+.search-container > div > span {
+    position: absolute;
+    color: #fff;
+    top: 5px;
+    left: 6px;
+}
+
+.search-container > div > input {
+    background: transparent;
+    border: 1px solid #fff;
+    padding: 4px;
+    padding-left: 40px;
+    color: #fff;
+}
+.cart-icon {
+    display: inline-block;
+    background: #fff;
+    line-height: 1;
+    position: absolute;
+    top: -70px;
+    right: 0;
+    color: #4948fd;
+    padding: 15px;
+    border-radius: 70px;
+}

@@ -1,0 +1,12 @@
+.header-categories p {
+    margin: 0;
+    display: inline-block;
+    background: #fff;
+    color: #000;
+    padding: 3px 10px;
+}
+
+.header-categories p span {
+    vertical-align: middle;
+    font-size: 20px;
+}

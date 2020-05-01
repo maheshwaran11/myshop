@@ -1,0 +1,15 @@
+.banner-image {
+    position: relative;
+}
+.banner-image img {
+    width: 100%;
+}
+.banner-image h2 {
+    position: absolute;
+    right: 0;
+    bottom: 60px;
+    background: #00000033;
+    line-height: 1;
+    padding: 20px;
+    color: #fff;
+}
